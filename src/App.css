@@ -1,0 +1,16 @@
+/* App.css or Menu.css */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.menu-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.app-background {
+  background-image: url("https://img.freepik.com/premium-photo/high-angle-view-multi-colored-candies-against-white-background_1048944-6108452.jpg?ga=GA1.1.1540396942.1739092747&semt=ais_hybrid&w=740");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100%;
+}
